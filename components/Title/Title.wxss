@@ -1,0 +1,52 @@
+.title {
+    display: flex;
+    align-items: center;
+    padding: 10rpx;
+}
+
+.title .logo {
+    flex: 7;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo .logo_img {
+    width: 110rpx;
+    height: 60rpx;
+}
+
+.search_icon {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.search_icon image {
+    width: 44rpx;
+    height: 44rpx;
+}
+
+.user_icon {
+    display: flex;
+    flex: 2;
+    justify-content: center;
+    align-items: center;
+}
+
+.user_icon image {
+    width: 54rpx;
+    height: 60rpx;
+}
+
+.download_app {
+    font-size: 30rpx;
+    display: flex;
+    flex: 3;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background: pink;
+    border-radius: 10rpx;
+    padding: 10rpx;
+}

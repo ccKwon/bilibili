@@ -1,0 +1,22 @@
+<view class="title">
+
+    <!-- logo -->
+     <navigator class="logo">
+         <image class="logo_img" src="../../icons/BILIBILI_LOGO.png" />
+     </navigator>
+
+     <!-- search -->
+     <view class="search_icon">
+         <image src="../../icons/search.png" />
+     </view>
+
+     <!-- user -->
+     <view class="user_icon">
+         <image src="../../icons/user.png" />
+     </view>
+
+     <!-- download -->
+     <view class="download_app">
+         下载 APP
+     </view>
+</view>

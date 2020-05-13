@@ -1,0 +1,7 @@
+<view class="nav_warp">
+    <scroll-view scroll-x="{{true}}">
+        <view class="nav_item" wx:for="{{navList}}" wx:key="index">
+            {{item.id}}
+        </view>
+    </scroll-view>
+</view>
